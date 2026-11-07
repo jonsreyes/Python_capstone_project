@@ -1,0 +1,17 @@
+Insights
+- This project analyzes retail sales performance using Python, Pandas, Matplotlib, and Streamlit to transform transactional data into meaningful business insights.
+- The analysis covers completed orders, revenue performance, product categories, geographic sales distribution, and customer purchasing behavior.
+- The business generated ₱3,861,540.04 in net revenue from 9,850 completed orders, with an Average Order Value (AOV) of ₱392.03.
+- Net revenue was calculated after applying discounts, providing a more accurate representation of realized sales than gross revenue alone.
+- Monthly revenue trends showed noticeable fluctuations, indicating variations in customer demand and sales performance throughout the analyzed period.
+- Product analysis identified KidJoy Toys 607 as the highest-revenue product, highlighting the contribution of top-performing merchandise.
+- Category analysis showed that Toys was a leading revenue-generating category, suggesting strong demand within this product segment.
+- Geographic analysis identified Central Luzon as the highest-revenue region, demonstrating differences in sales performance across locations.
+- Customer analysis identified 4,308 new orders and 5,510 repeat orders, indicating that repeat purchasing contributed significantly to overall sales activity among classified orders.
+- The interactive dashboard allows users to analyze performance using Year, Month, Region, Channel, and Category filters.
+- Key business opportunities include improving customer retention, optimizing inventory, increasing average order value, and evaluating discount effectiveness.
+- Overall, the analysis demonstrates how data visualization and KPI monitoring can support informed business decisions, improve sales strategies, and identify opportunities for sustainable revenue growth.
+
+Recommendations
+- Improve Sales Forecasting: Use historical monthly revenue trends to forecast future demand, plan inventory purchases, and prepare for seasonal fluctuations. This can help minimize stock shortages, reduce excess inventory, and improve operational efficiency.
+- Implement Customer Segmentation: Group customers based on purchase frequency, spending behavior, and order value to develop targeted marketing campaigns. This can help increase customer engagement, encourage repeat purchases, and improve overall customer lifetime value.
